@@ -1,10 +1,10 @@
 # Bem ao meu perfil!
- Meu nome é Alex 
+ Me chamo Alex Santos da silva!
  
- -Estou estudando no Alura
+ Estou trabalhando no novo supermercado Muricris!
 
 ### Para entrar em contato comigo 📫
 
   alex.santosda.silva@escola.pr.gov.br
   
-  @alexstns
+  @alexsts
